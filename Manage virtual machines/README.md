@@ -13,9 +13,13 @@ System Requirements
 We describe the system requirement in an incremental fashion using the notion of steps.:
 
 Step 1
+
 In this step, we manage a single virtual machine:
+
 We work with VSphere 6.5 and ESXI 6.5 
+
 We create a virtual machine on ESXI 6.5 and save the VM Data on Data Base SQL Express, and get all VMs by user.
+
 We delete a virtual machine from ESXI 6.5 and from SQL Express and Extend VM life if needed.
 
    
